@@ -1,14 +1,20 @@
+h2 {
+    font-size: 42px;
+    text-align: center;
+    padding-top: 20px;
+}
 iframe {
     border: none;
 }
 
-.iframe {
+.KaraokeContainer {
+    background-color: white;
   
+}
+.iframe {
     height: 450px;
     width: 675px;
-    
     overflow: hidden;
-    margin: 20px auto;
-    
-    
+    margin: 0 auto;
+    padding-bottom: 40px;
 }

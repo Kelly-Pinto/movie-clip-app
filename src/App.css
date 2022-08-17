@@ -1,5 +1,8 @@
 .App {
   background-color: #282c34;
+  width: 900px;
+  margin: 0 auto;
+  font-family: 'Nunito', sans-serif;
 }
 
 
