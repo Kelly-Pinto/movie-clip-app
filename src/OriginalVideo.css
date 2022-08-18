@@ -1,0 +1,11 @@
+iframe {
+    margin: 0 auto;
+    display: block;
+    padding-bottom: 40px;
+}
+
+.OriginalVideoContainer {
+    margin: 20px auto;
+    background-color: white;
+    max-width: 800px;
+}

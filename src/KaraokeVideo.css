@@ -9,6 +9,8 @@ iframe {
 
 .KaraokeContainer {
     background-color: white;
+    max-width: 800px;
+    margin: 20px auto;
   
 }
 .iframe {

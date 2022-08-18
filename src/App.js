@@ -1,6 +1,7 @@
 
 import './App.css';
 import KaraokeVideo from "./KaraokeVideo";
+import OriginalVideo from "./OriginalVideo";
 
 function App() {
   return (
@@ -8,7 +9,8 @@ function App() {
       <div className="container">
       <header className="App-header">
       </header>
-      <KaraokeVideo/>
+      <OriginalVideo/>
+       <KaraokeVideo/>
       </div>
     </div>
   );
