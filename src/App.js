@@ -2,6 +2,7 @@
 import './App.css';
 import KaraokeVideo from "./KaraokeVideo";
 import OriginalVideo from "./OriginalVideo";
+import AudioSection from "./AudioSection";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <header className="App-header">
       </header>
       <OriginalVideo/>
+      <AudioSection/>
        <KaraokeVideo/>
       </div>
     </div>
