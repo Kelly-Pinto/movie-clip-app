@@ -1,3 +1,13 @@
 .AudioSection {
     background-color: white;
 }
+.AudioPlayers {
+    display: flex;
+}
+
+.audioControls {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    border:none;
+}
